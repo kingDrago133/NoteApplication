@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements PopupMenu.OnMenuI
     SearchView searchView_home;
     Notes selectedNote;
 
+    // Insert comment here.
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
